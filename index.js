@@ -3,8 +3,8 @@
  * Module dependencies.
  */
 
-var transform = require('transform-property');
-var has3d = require('has-translate3d');
+var transform = require('component-transform-property');
+var has3d = require('component-has-translate3d');
 
 /**
  * Expose `translate`.
